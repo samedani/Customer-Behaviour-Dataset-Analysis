@@ -1,0 +1,1001 @@
+first_name,last_name,gender,age,registered,orders,spent,job,hobbies,is_married
+Joseph,Rice,male,43,5/5/2019,7,568.29,Artist,Playing sports,False
+Gary,Moore,male,71,5/20/2020,11,568.92,Artist,Swimming,True
+John,Walker,male,44,4/4/2020,11,497.12,Clerk,Painting,False
+Eric,Carter,male,38,1/30/2019,17,834.6,Butcher,Playing musical instruments,False
+William,Jackson,male,58,7/1/2022,14,151.59,Engineer,Reading,False
+Nicole,Jones,female,33,8/7/2021,19,33.17,Unemployed,Running,True
+David,Davis,male,59,6/16/2022,9,970.96,Doctor,Playing sports,False
+Jason,Montgomery,male,58,11/13/2021,12,676.2,Waitress,Collecting,False
+Kent,Weaver,male,61,6/11/2023,1,674.37,Clerk,Hiking,False
+Darrell,Dillon,male,50,9/13/2022,12,750.72,Dentist,Watching movies,False
+Jacqueline,Wang,female,22,2/8/2023,12,962.47,Housewife,Collecting,False
+Jodi,Gonzalez,female,69,6/25/2021,12,68.67,Baker,Photography,False
+Omar,Martin,male,28,5/28/2023,3,162.58,Doctor,Gardening,True
+Nicole,Lara,female,77,3/3/2023,17,309.81,Janitor,Hiking,True
+Jason,Brown,male,63,12/5/2022,13,763.27,Lawyer,Fishing,True
+David,Benson,male,61,4/15/2022,17,111.11,Lawyer,Meditation,True
+Kimberly,Mora,female,34,5/19/2019,10,208.46,Farmer,Collecting,False
+Erik,Macias,male,25,4/18/2020,8,439.53,Accountant,Fishing,False
+James,Johnson,male,67,2/17/2019,5,394.95,Security Guard,Watching movies,False
+Derek,Peterson,male,36,12/15/2020,2,153.8,Architect,Photography,True
+Diane,Henson,female,74,3/21/2020,19,62.52,Butcher,Playing musical instruments,False
+Cody,Lyons,male,47,11/25/2019,14,43.17,Baker,Hunting,False
+Margaret,Hardy,female,25,7/17/2021,9,455.27,Barber,Other,False
+Arthur,Hayes,male,75,4/1/2021,6,749.78,Chef,Sewing,False
+Raymond,Taylor,male,36,9/24/2021,6,125.18,Butcher,Playing musical instruments,False
+Tina,Moore,female,34,7/15/2020,17,888.53,Chef,Running,False
+Kylie,White,female,63,2/3/2020,6,872.18,Janitor,Reading,True
+Jonathan,Manning,male,30,1/21/2022,0,178.54,Librarian,Playing sports,False
+Angela,Bryant,female,23,9/11/2019,3,525.2,Politician,Cycling,False
+Michael,Mann,male,56,8/12/2019,8,12.12,Nurse,Watching movies,False
+Craig,Myers,male,42,10/16/2020,3,716.53,Lawyer,Cooking,False
+Tiffany,Carter,female,26,7/11/2021,12,967.96,Receptionist,Meditation,False
+Erica,Owens,female,22,1/12/2022,7,183.63,Butcher,Collecting,False
+Patricia,Parker,female,28,12/7/2022,17,174.16,Doctor,Yoga,True
+Brian,Palmer,male,75,1/26/2022,4,77.1,Baker,Reading,False
+Melissa,Smith,female,75,9/23/2018,12,17.97,Farmer,Traveling,False
+Connor,Adams,male,21,8/28/2021,17,99.95,Pilot,Running,False
+Michael,Williams,male,40,12/30/2018,2,808.98,Mechanic,Reading,True
+Ruth,Smith,female,50,10/18/2019,16,70.7,Hairdresser,Playing sports,True
+Jonathan,Middleton,male,79,10/12/2018,9,882.71,Chef,Playing sports,False
+Francis,Velez,male,25,3/5/2021,17,994.92,Unemployed,Collecting,True
+Matthew,Velez,male,71,8/18/2020,18,639.09,Accountant,Painting,False
+Kim,Shaw,female,39,10/30/2018,1,181.4,Farmer,Watching movies,False
+Gary,Jones,male,40,3/20/2020,4,283.19,Artist,Running,True
+Nicholas,Clayton,male,25,2/13/2023,10,54.11,Teacher,Camping,False
+Anthony,Chavez,male,36,12/19/2019,20,995.44,Pilot,Other,False
+Carolyn,Green,female,31,11/5/2020,11,317.63,Scientist,Playing sports,False
+Janice,Roman,female,78,3/4/2022,3,426.94,Cashier,Playing video games,False
+Erin,Taylor,female,54,6/30/2021,6,792.03,Baker,Other,False
+Charles,Garcia,male,24,11/9/2021,2,874.74,Tailor,Playing sports,True
+John,Huber,male,51,7/16/2023,4,976.2,Architect,Dancing,True
+Haley,Martinez,female,75,9/14/2020,2,657.64,Mechanic,Hunting,False
+Adam,Holmes,male,41,9/23/2020,1,636.0,Scientist,Playing video games,False
+Patricia,Jones,female,46,12/9/2021,19,781.11,Chef,Singing,False
+Christy,Rodriguez,female,23,11/21/2020,18,744.0,Receptionist,Hiking,True
+Jose,Poole,male,60,9/13/2019,5,69.28,Butcher,Gardening,False
+Lacey,Mercado,female,29,7/6/2020,15,800.7,Security Guard,Collecting,False
+Danielle,Garcia,female,68,8/10/2022,1,836.41,Janitor,Painting,False
+Amanda,Cohen,female,72,7/31/2020,1,911.93,Chef,Drawing,True
+Jeremy,Rodriguez,male,28,10/6/2019,4,852.46,Engineer,Fishing,True
+Jade,Wall,female,51,8/20/2021,13,997.48,Baker,Writing,False
+Janice,Garcia,female,28,6/5/2023,5,180.4,Chef,Collecting,False
+Sarah,Greer,female,49,5/15/2020,3,566.58,Carpenter,Other,False
+Sandra,Golden,female,42,12/31/2021,2,466.23,Baker,Playing video games,False
+David,Fritz,male,47,8/2/2021,13,235.3,Accountant,Camping,False
+Hannah,Wu,female,59,4/26/2019,9,106.23,Nurse,Painting,False
+Guy,Bennett,male,44,8/24/2020,15,652.44,Student,Writing,True
+Regina,Wong,female,64,8/11/2022,18,122.47,Barber,Sewing,False
+Desiree,Webster,female,38,6/27/2020,14,678.93,Mechanic,Gardening,False
+Juan,Cruz,male,21,11/4/2020,8,545.53,Mechanic,Collecting,True
+Michelle,Edwards,female,77,2/13/2021,5,716.44,Doctor,Playing video games,False
+Alexander,Griffin,male,76,11/14/2018,3,763.02,Waitress,Fishing,False
+Laura,House,female,78,9/11/2019,0,14.71,Barber,Playing musical instruments,False
+Brittany,Hanna,female,32,1/5/2023,2,84.56,Doctor,Hiking,False
+Allen,Wright,male,49,3/1/2023,9,45.4,Carpenter,Playing sports,True
+Ricky,Phillips,male,49,3/21/2020,16,118.18,Waiter,Fishing,False
+Adrian,Cross,male,27,10/27/2021,17,615.79,Unemployed,Playing sports,False
+Thomas,Wood,male,33,12/19/2021,1,466.65,Clerk,Sewing,False
+Jillian,Massey,female,76,3/29/2022,0,959.77,Baker,Dancing,False
+Kevin,Watkins,male,53,5/10/2022,0,688.0,Receptionist,Baking,False
+Allison,Sweeney,female,75,10/29/2021,14,299.47,Politician,Dancing,False
+Joseph,Hernandez,male,41,5/6/2021,14,682.03,Chef,Watching movies,False
+Steven,Little,male,69,9/29/2021,18,371.65,Unemployed,Dancing,True
+John,Bennett,male,32,1/31/2023,4,864.18,Politician,Playing musical instruments,False
+Michele,Maxwell,female,80,8/18/2019,2,670.75,Polic,Traveling,False
+Emily,Thomas,female,74,12/23/2019,13,312.94,Pilot,Cycling,False
+Mark,Rogers,male,22,5/4/2022,9,269.44,Artist,Dancing,False
+John,Cruz,male,76,7/23/2023,16,430.46,Hairdresser,Collecting,False
+David,Yoder,male,79,7/18/2021,18,91.25,Clerk,Traveling,True
+James,Reynolds,male,29,1/8/2023,20,807.5,Teacher,Hunting,False
+Stephanie,Hicks,female,53,12/15/2019,10,26.95,Student,Gardening,False
+Paul,Brown,male,78,10/6/2018,17,110.35,Chef,Yoga,True
+Alexandra,Morales,female,73,1/12/2019,19,659.86,Barber,Fishing,False
+Krystal,Carroll,female,43,7/30/2023,9,945.92,Athlete,Playing musical instruments,True
+Alyssa,Walker,female,35,4/8/2020,11,412.39,Athlete,Writing,True
+Eric,Harvey,male,52,6/26/2020,18,9.47,Clerk,Drawing,False
+Debbie,Rogers,female,76,9/29/2019,0,903.68,Unkown,Singing,False
+Steve,Braun,male,72,11/2/2022,19,872.8,Unkown,Drawing,False
+Ryan,Rojas,male,51,1/13/2020,2,179.05,Waitress,Traveling,False
+Andrew,Levine,male,67,3/24/2023,18,580.8,Dentist,Playing video games,False
+Brian,Olson,male,38,3/25/2019,11,964.46,Lawyer,Sewing,True
+Jessica,Welch,female,28,11/12/2021,11,391.21,Polic,Cycling,False
+Stephanie,Faulkner,female,18,2/13/2022,5,663.33,Barber,Running,False
+Dawn,Johnson,female,77,10/8/2019,2,401.88,Polic,Reading,False
+Monique,Wright,female,72,2/5/2021,16,245.8,Engineer,Playing video games,False
+Veronica,Stein,female,18,8/25/2018,7,969.71,Chef,Playing video games,False
+Breanna,Santos,female,26,4/28/2022,1,40.6,Dentist,Playing musical instruments,False
+Jeremy,Lee,male,26,6/29/2021,16,829.66,Carpenter,Yoga,False
+Robert,Moore,male,40,4/2/2020,5,795.64,Polic,Hunting,True
+Tiffany,Pearson,female,77,12/19/2019,4,220.82,Politician,Gardening,True
+Audrey,Richardson,female,53,10/20/2020,12,560.53,Engineer,Playing musical instruments,False
+Maureen,Bryant,female,64,5/3/2021,7,275.84,Architect,Singing,False
+Derrick,Roberts,male,72,5/8/2023,7,8.27,Firefighter,Fishing,False
+Jeffrey,Sullivan,male,61,11/15/2020,9,994.93,Artist,Swimming,False
+Amy,Harris,female,25,1/3/2019,11,975.89,Janitor,Meditation,False
+Rhonda,Flores,female,52,4/17/2023,20,710.48,Accountant,Swimming,False
+Steven,Black,male,41,8/12/2020,1,847.28,Firefighter,Watching movies,False
+Robert,Shepherd,male,28,6/20/2019,1,255.44,Hairdresser,Photography,False
+Robin,Snyder,female,19,9/7/2018,4,127.75,Butcher,Playing musical instruments,True
+Elijah,Cook,male,80,11/21/2022,6,668.19,Doctor,Collecting,False
+Dennis,Hill,male,42,4/7/2021,6,751.82,Nurse,Running,False
+Charles,Nunez,male,80,3/26/2023,8,789.73,Security Guard,Playing musical instruments,False
+Philip,Robinson,male,52,10/24/2020,19,530.28,Barber,Singing,False
+Rachel,Larson,female,21,1/10/2019,4,951.4,Librarian,Yoga,True
+Stephen,Sharp,male,35,2/16/2019,14,603.15,Hairdresser,Gardening,False
+Aimee,Jacobs,female,54,11/24/2021,8,302.32,Tailor,Playing musical instruments,False
+Brittany,Miller,female,49,9/25/2019,18,444.08,Pilot,Collecting,False
+Sabrina,Mclaughlin,female,50,7/20/2021,4,440.33,Security Guard,Writing,True
+Amber,Banks,female,54,10/12/2020,2,25.81,Baker,Other,False
+Casey,Todd,female,62,11/5/2018,2,381.27,Doctor,Drawing,True
+Miranda,Williams,female,48,6/10/2019,11,701.43,Accountant,Watching movies,False
+Alexander,Williams,male,48,7/15/2022,16,292.91,Pilot,Photography,False
+Jesus,Higgins,male,57,12/25/2019,1,866.94,Receptionist,Watching movies,True
+James,Keith,male,50,2/18/2019,11,678.38,Lawyer,Hunting,False
+Shawn,Johnson,male,18,8/1/2023,17,803.85,Politician,Drawing,True
+Natalie,Page,female,75,4/14/2019,11,421.98,Engineer,Fishing,True
+Zachary,Fowler,male,28,10/7/2019,3,816.36,Lawyer,Writing,True
+Brian,Bowman,male,55,5/16/2021,4,497.49,Engineer,Watching movies,True
+Ryan,Martin,male,61,1/22/2019,19,277.85,Teacher,Singing,False
+Jennifer,Silva,female,45,4/2/2020,10,428.69,Doctor,Meditation,False
+Joseph,Sparks,male,66,1/1/2022,10,705.29,Scientist,Gardening,False
+Mary,Bishop,female,60,11/30/2019,4,266.34,Mechanic,Fishing,True
+Stacey,Welch,female,46,3/17/2021,12,525.97,Scientist,Traveling,True
+Brett,Burns,male,41,10/10/2020,14,214.74,Dentist,Other,False
+Michael,Case,male,29,3/21/2020,15,289.75,Athlete,Sewing,True
+Terry,Bailey,male,68,10/13/2018,7,203.84,Dentist,Meditation,False
+Christopher,Mcdonald,male,43,11/20/2021,0,895.73,Mechanic,Playing musical instruments,True
+Andres,Becker,male,31,2/2/2022,5,804.85,Politician,Hunting,False
+Chase,Mcdaniel,male,26,2/14/2022,9,826.27,Butcher,Drawing,False
+Sherry,Parsons,female,52,12/5/2018,6,599.31,Waitress,Drawing,False
+Javier,Jones,male,80,10/31/2018,8,119.81,Firefighter,Sewing,False
+Jill,Kane,female,32,9/24/2021,19,408.72,Unemployed,Traveling,False
+Janet,Valdez,female,29,7/30/2019,1,43.92,Unemployed,Other,True
+Karen,Ford,female,33,12/4/2018,8,520.03,Janitor,Cycling,True
+Jamie,Johnson,female,28,4/20/2023,1,516.39,Athlete,Hunting,False
+Jessica,Marshall,female,21,7/1/2019,3,219.37,Polic,Swimming,True
+Sharon,Warner,female,55,9/10/2021,15,655.36,Farmer,Gardening,False
+Zachary,Williams,male,19,11/10/2019,4,172.65,Receptionist,Hunting,False
+Brooke,Durham,female,33,2/4/2023,16,415.33,Accountant,Painting,False
+Ryan,Murray,male,77,3/9/2020,13,86.28,Architect,Photography,False
+Gabrielle,Smith,female,44,5/20/2019,13,421.24,Barber,Watching movies,False
+Nicole,Bennett,female,51,3/2/2019,20,722.42,Chef,Running,False
+Heather,Ali,female,75,4/22/2019,8,173.15,Engineer,Writing,False
+Sandra,Mcmahon,female,34,3/16/2021,11,727.8,Security Guard,Camping,True
+Bailey,Mercado,female,42,10/17/2019,2,107.5,Engineer,Traveling,False
+Morgan,Cooper,female,18,10/8/2022,15,799.49,Firefighter,Hunting,False
+Matthew,Stokes,male,42,1/22/2020,14,695.73,Artist,Meditation,False
+Timothy,Mullins,male,51,11/10/2019,12,979.46,Waiter,Hiking,False
+Kenneth,Rubio,male,74,8/3/2019,15,482.72,Polic,Dancing,True
+Mary,Zamora,female,62,2/23/2019,1,968.64,Mechanic,Writing,True
+Larry,Cole,male,50,12/19/2022,5,130.5,Athlete,Writing,True
+Jeffrey,Diaz,male,69,5/2/2019,18,528.32,Dentist,Fishing,False
+Joseph,Brown,male,29,2/16/2021,0,584.56,Nurse,Swimming,True
+Emily,Jones,female,60,11/20/2020,19,127.5,Pilot,Traveling,False
+Tara,Davis,female,80,5/7/2022,18,941.06,Lawyer,Running,False
+Tiffany,Bowers,female,39,5/16/2023,4,529.19,Tailor,Watching movies,True
+Linda,Craig,female,25,11/22/2022,11,81.96,Dentist,Baking,True
+Christine,Smith,female,74,1/17/2020,2,148.68,Politician,Other,False
+Matthew,Williams,male,29,1/22/2019,20,649.96,Athlete,Playing musical instruments,False
+Brenda,Lewis,female,21,11/14/2021,5,893.46,Officer,Camping,False
+Adrian,West,male,51,1/2/2019,12,462.8,Housewife,Playing musical instruments,True
+Amy,Scott,female,28,9/11/2019,5,189.18,Security Guard,Watching movies,False
+April,Beck,female,80,9/14/2021,7,20.45,Clerk,Yoga,False
+Anthony,Nicholson,male,22,4/19/2021,0,263.69,Butcher,Sewing,True
+Shari,Garcia,female,78,3/23/2021,17,129.58,Athlete,Running,True
+Xavier,Miles,male,45,3/30/2020,18,614.2,Carpenter,Baking,False
+Rachael,Gilbert,female,42,1/5/2021,18,319.97,Waitress,Hiking,True
+Michele,Rogers,female,48,3/2/2019,11,720.58,Unemployed,Sewing,False
+Derek,Dixon,male,33,5/14/2023,8,154.31,Waiter,Traveling,False
+Grace,Hartman,female,26,7/14/2022,13,249.1,Receptionist,Gardening,False
+Joseph,Miller,male,36,9/7/2022,10,517.7,Baker,Singing,True
+David,Arnold,male,62,3/11/2021,17,548.98,Polic,Meditation,True
+Yesenia,White,female,25,12/23/2019,8,227.14,Receptionist,Yoga,False
+Nancy,Miller,female,65,12/31/2018,20,432.59,Baker,Swimming,True
+Christopher,Doyle,male,43,9/1/2018,17,256.09,Officer,Yoga,False
+Taylor,Reed,female,74,6/12/2020,12,544.54,Unkown,Painting,False
+Katherine,Ferguson,female,41,11/16/2019,5,956.0,Pilot,Watching movies,False
+Robert,Bryan,male,49,7/8/2019,17,298.6,Barber,Singing,True
+Zachary,Kane,male,75,12/30/2021,13,702.17,Nurse,Swimming,True
+Rebecca,Robinson,female,50,5/30/2022,13,695.82,Butcher,Playing musical instruments,False
+Bethany,Anderson,female,43,6/9/2019,6,181.34,Baker,Other,False
+Mary,Williams,female,22,10/28/2021,15,121.59,Mechanic,Meditation,False
+Carlos,Wallace,male,58,7/3/2022,2,307.94,Scientist,Baking,False
+Rhonda,Matthews,female,62,10/20/2022,2,907.74,Teacher,Photography,False
+Donald,Barker,male,39,4/10/2022,11,530.65,Housewife,Cooking,True
+Courtney,Lopez,female,66,8/1/2022,12,740.41,Baker,Painting,False
+Chelsea,Moyer,female,20,8/15/2020,17,614.33,Accountant,Baking,False
+Brittany,Golden,female,24,6/23/2020,4,439.42,Tailor,Photography,False
+Russell,Berry,male,25,8/11/2018,19,248.58,Cashier,Gardening,False
+Joshua,Jackson,male,57,12/28/2019,17,800.72,Officer,Meditation,False
+Alicia,Thompson,female,38,12/17/2018,9,337.99,Unkown,Watching movies,True
+Clifford,Gray,male,23,7/31/2019,14,312.46,Athlete,Yoga,False
+Gloria,Miller,female,68,1/4/2023,5,320.33,Hairdresser,Swimming,False
+Nicole,Mcintyre,female,18,3/21/2023,20,971.81,Accountant,Hunting,False
+Vincent,Kline,male,57,9/18/2018,11,145.81,Barber,Sewing,True
+Amber,Hunter,female,78,2/19/2022,6,736.2,Waiter,Camping,True
+Shelby,Gomez,female,28,8/30/2021,7,801.21,Unkown,Watching movies,False
+Thomas,Mclaughlin,male,29,11/4/2022,17,968.75,Lawyer,Meditation,False
+Nathan,Graham,male,47,1/10/2020,13,541.11,Unkown,Camping,False
+Thomas,Guzman,male,69,11/1/2018,5,784.21,Dentist,Fishing,False
+Sarah,Gilbert,female,56,7/15/2021,4,561.85,Chef,Cycling,False
+Jeremy,Andrews,male,24,9/4/2020,6,932.03,Unkown,Dancing,False
+Megan,Morris,female,41,10/18/2019,17,661.88,Hairdresser,Traveling,True
+Zachary,Davis,male,25,7/14/2019,3,968.83,Tailor,Dancing,False
+Michael,Phelps,male,72,8/26/2022,2,573.59,Butcher,Collecting,True
+Christopher,Robinson,male,23,9/8/2020,12,246.48,Unemployed,Gardening,False
+Aaron,Mckee,male,37,2/12/2020,17,236.32,Chef,Running,False
+Andrea,Velasquez,female,55,11/7/2021,20,18.65,Unemployed,Hunting,False
+Philip,Newton,male,74,2/1/2023,6,944.92,Firefighter,Meditation,False
+Kathleen,Palmer,female,64,3/26/2022,12,454.08,Student,Camping,False
+Eric,Levine,male,25,3/7/2021,17,65.95,Athlete,Camping,False
+Michael,Lopez,male,47,11/12/2021,13,128.94,Cashier,Yoga,False
+Samantha,Smith,female,28,1/19/2020,13,936.97,Butcher,Yoga,True
+Diane,Tanner,female,79,8/7/2020,17,323.44,Architect,Hunting,False
+Melissa,Gaines,female,25,3/4/2022,13,453.49,Housewife,Playing video games,False
+Alicia,Jensen,female,19,7/12/2020,14,803.3,Scientist,Camping,False
+Donna,Bird,female,63,3/6/2019,6,712.61,Dentist,Playing sports,False
+Kyle,Ruiz,male,48,4/26/2019,12,849.18,Cashier,Collecting,True
+Janet,Holmes,female,36,4/18/2023,4,909.81,Unemployed,Cooking,False
+Edward,Bray,male,32,1/23/2021,20,78.33,Politician,Playing musical instruments,True
+Brenda,Hines,female,44,8/8/2020,1,976.9,Farmer,Photography,True
+Mark,Roberts,male,61,4/10/2019,13,327.65,Officer,Cycling,False
+Alejandro,Bailey,male,73,11/2/2021,19,870.41,Engineer,Dancing,False
+Mark,Rivers,male,38,9/10/2018,0,348.89,Nurse,Traveling,False
+Christopher,Miles,male,30,9/30/2018,7,168.8,Artist,Traveling,False
+Justin,Stewart,male,73,8/3/2018,15,605.9,Polic,Drawing,False
+John,Miller,male,53,2/10/2019,11,150.75,Tailor,Swimming,False
+Thomas,Hickman,male,23,8/1/2021,0,376.82,Unemployed,Camping,True
+Patricia,Garcia,female,19,12/12/2022,2,654.3,Security Guard,Photography,False
+Cindy,Chambers,female,24,8/10/2021,18,297.83,Engineer,Traveling,False
+Natasha,Collins,female,69,5/13/2020,7,440.67,Carpenter,Playing musical instruments,False
+Anthony,Smith,male,33,6/24/2020,1,386.27,Housewife,Yoga,False
+Jacob,Robinson,male,78,6/18/2022,1,892.67,Teacher,Traveling,False
+Joseph,Martinez,male,42,10/2/2021,17,125.26,Librarian,Gardening,False
+Joseph,Cross,male,23,9/30/2020,4,610.04,Student,Cooking,False
+Margaret,Nelson,female,62,2/9/2021,11,957.71,Receptionist,Gardening,False
+Jay,Williams,male,27,9/11/2019,7,70.61,Waitress,Playing musical instruments,False
+Craig,Moore,male,24,11/6/2018,7,429.24,Athlete,Playing video games,False
+Matthew,Jackson,male,37,11/12/2020,0,833.36,Student,Watching movies,True
+Robert,Smith,male,53,7/16/2020,5,200.42,Receptionist,Traveling,True
+Kristine,Green,female,34,9/23/2018,7,631.49,Dentist,Other,False
+Karen,Jacobs,female,45,3/21/2021,9,592.95,Scientist,Dancing,False
+Jessica,Obrien,female,67,9/30/2020,7,831.99,Receptionist,Playing musical instruments,False
+Paul,Underwood,male,32,11/30/2021,7,605.42,Firefighter,Playing musical instruments,False
+Brian,Scott,male,47,1/15/2023,13,709.97,Waiter,Fishing,True
+Bryan,Richardson,male,76,6/30/2020,19,456.7,Engineer,Traveling,True
+John,Summers,male,57,4/4/2020,9,826.48,Receptionist,Camping,False
+Tracy,Wolf,male,35,5/25/2023,11,983.4,Doctor,Running,False
+Michael,Castro,male,76,9/25/2022,12,721.3,Polic,Fishing,False
+April,Lyons,female,29,7/30/2023,4,325.56,Artist,Cycling,False
+Teresa,Mitchell,female,33,3/30/2019,1,20.81,Unemployed,Hiking,False
+Mark,Stewart,male,77,3/13/2020,19,374.24,Nurse,Singing,False
+Kayla,Mitchell,female,64,3/17/2020,4,309.12,Lawyer,Traveling,True
+Alan,Rodriguez,male,79,8/12/2021,16,802.3,Artist,Camping,False
+Katelyn,Smith,female,69,9/10/2021,13,869.23,Receptionist,Collecting,False
+Tina,Duarte,female,48,6/26/2021,3,729.86,Chef,Running,False
+Matthew,Hansen,male,35,11/1/2019,16,404.22,Mechanic,Painting,False
+Olivia,Williamson,female,58,6/30/2020,14,115.39,Polic,Painting,False
+Anthony,Wade,male,38,3/31/2021,1,900.69,Hairdresser,Cooking,True
+Jaclyn,Barton,female,28,4/3/2021,2,715.62,Lawyer,Sewing,False
+Adam,Johnson,male,39,1/10/2023,9,302.58,Janitor,Baking,False
+Matthew,Hogan,male,64,2/25/2020,7,736.07,Librarian,Running,False
+Wendy,Goodman,female,25,4/12/2022,9,892.68,Scientist,Camping,False
+Tyler,Mills,male,70,5/27/2022,16,375.06,Butcher,Other,False
+Janet,Rivera,female,19,7/9/2023,0,668.58,Cashier,Painting,True
+James,Robbins,male,25,8/9/2021,1,922.98,Officer,Gardening,False
+Grace,Cooper,female,45,5/11/2020,2,504.58,Teacher,Playing sports,True
+Denise,Cook,female,31,4/10/2022,5,966.34,Firefighter,Watching movies,False
+Wayne,Curtis,male,66,11/10/2022,14,838.26,Athlete,Painting,False
+Kendra,Holder,female,53,3/28/2023,12,756.71,Artist,Playing sports,True
+Terry,Nielsen,male,77,3/13/2019,0,45.67,Officer,Hiking,False
+Natasha,Gallegos,female,67,8/12/2022,14,610.09,Butcher,Photography,False
+Hannah,Hughes,female,42,10/1/2022,5,736.41,Lawyer,Photography,False
+Jodi,Wilkerson,female,32,6/28/2020,18,91.29,Barber,Writing,True
+Kyle,Bright,male,28,9/1/2022,18,241.39,Mechanic,Fishing,False
+Kevin,Santiago,male,41,12/10/2021,20,413.33,Receptionist,Collecting,True
+Timothy,Gutierrez,male,68,8/8/2019,4,325.62,Receptionist,Watching movies,True
+Ivan,Callahan,male,72,8/21/2022,8,158.41,Tailor,Drawing,False
+Austin,Dyer,male,71,8/20/2022,12,439.44,Scientist,Reading,False
+Christopher,Murphy,male,22,8/1/2021,0,40.27,Polic,Running,True
+Brandi,Bennett,female,60,9/15/2022,6,26.49,Waitress,Meditation,False
+William,Hull,male,67,6/1/2020,20,32.01,Scientist,Photography,True
+Kevin,Marshall,male,24,4/7/2020,17,847.23,Tailor,Baking,True
+Derrick,Ross,male,41,10/20/2021,18,612.08,Unemployed,Painting,False
+Charles,Gardner,male,18,3/12/2023,3,392.45,Barber,Hiking,True
+Karen,Davis,female,30,4/16/2023,5,434.38,Politician,Photography,False
+Cathy,Walker,female,49,4/15/2022,1,76.82,Farmer,Painting,False
+Karen,Jenkins,female,40,2/24/2022,16,898.74,Farmer,Writing,True
+David,Townsend,male,26,9/8/2019,7,699.33,Dentist,Singing,False
+Lisa,Collins,female,19,3/23/2021,20,57.96,Firefighter,Other,False
+Kenneth,Wilson,male,79,4/18/2023,13,181.55,Farmer,Cycling,True
+Kyle,Vincent,male,63,4/9/2019,10,979.84,Architect,Drawing,False
+Kimberly,Richardson,female,70,12/27/2021,5,125.8,Farmer,Playing video games,False
+Joseph,Robinson,male,29,12/19/2020,3,637.43,Carpenter,Swimming,False
+Keith,Chavez,male,51,5/10/2021,13,233.32,Mechanic,Playing sports,False
+Gerald,Romero,male,37,3/18/2023,9,452.3,Carpenter,Swimming,True
+Deanna,Sparks,female,21,6/18/2020,13,835.38,Clerk,Cycling,True
+Kevin,Miller,male,43,6/20/2023,0,44.57,Scientist,Playing musical instruments,False
+William,Jackson,male,62,11/13/2018,2,290.5,Nurse,Running,False
+Jennifer,Li,female,37,6/11/2021,6,442.87,Polic,Swimming,True
+Bailey,Johnson,female,47,2/14/2019,2,231.49,Baker,Sewing,True
+Sandra,Jackson,female,43,6/14/2019,2,39.21,Unkown,Running,True
+Steven,Stephens,male,48,3/14/2021,4,755.76,Cashier,Other,False
+Richard,Barrera,male,21,3/18/2019,19,323.71,Officer,Writing,True
+Alexandra,Thompson,female,24,10/30/2018,9,76.63,Architect,Watching movies,True
+Rebecca,Diaz,female,80,4/26/2023,2,121.65,Housewife,Running,True
+Lindsey,Sharp,female,63,7/3/2022,17,659.4,Lawyer,Baking,True
+William,Duncan,male,36,9/29/2019,17,146.22,Lawyer,Dancing,True
+Matthew,Johnson,male,76,7/8/2022,7,150.87,Teacher,Gardening,False
+Bruce,Young,male,44,5/28/2022,0,639.61,Artist,Camping,False
+Andrew,Fleming,male,59,1/23/2022,0,904.99,Receptionist,Cooking,False
+Steven,Cortez,male,48,3/31/2020,7,356.64,Lawyer,Singing,True
+Sally,Boyle,female,33,11/9/2019,0,72.68,Chef,Traveling,False
+Brenda,Davis,female,67,9/22/2019,13,360.16,Student,Hiking,False
+Sean,Smith,male,62,8/11/2021,10,656.31,Janitor,Traveling,False
+Shannon,Gilbert,female,58,3/5/2020,7,476.91,Farmer,Photography,True
+Jose,Lee,male,59,4/9/2023,12,736.8,Politician,Playing sports,False
+Justin,Russo,male,33,8/2/2021,12,809.19,Teacher,Gardening,False
+Felicia,Smith,female,18,3/17/2022,20,659.44,Clerk,Singing,False
+Bruce,Mcknight,male,46,9/16/2018,15,681.75,Housewife,Reading,False
+Michael,Jarvis,male,32,7/7/2023,16,913.56,Baker,Hunting,False
+Megan,Christensen,female,46,9/7/2021,16,419.28,Student,Singing,True
+Zachary,King,male,52,7/27/2022,12,412.49,Accountant,Hiking,False
+Jessica,Collins,female,80,4/25/2023,13,978.45,Chef,Running,False
+William,Hughes,male,59,1/1/2021,19,835.41,Tailor,Swimming,False
+Amber,Fox,female,34,9/14/2021,20,338.99,Carpenter,Fishing,True
+Jeffrey,Hancock,male,31,4/8/2023,8,821.53,Mechanic,Cycling,False
+Nancy,Dean,female,80,5/25/2019,15,747.33,Clerk,Sewing,True
+Sarah,Reynolds,female,52,8/20/2019,9,671.66,Housewife,Swimming,False
+John,Pittman,male,80,11/17/2021,18,716.45,Mechanic,Yoga,False
+Joshua,Jones,male,48,4/6/2019,10,608.25,Housewife,Playing video games,False
+Jeffery,Robinson,male,42,2/22/2021,15,264.7,Teacher,Fishing,True
+Debra,Peters,female,42,10/7/2021,2,9.69,Nurse,Running,False
+Steven,Lewis,male,77,2/26/2019,8,588.47,Architect,Watching movies,False
+Denise,Thomas,female,29,4/25/2023,8,966.36,Scientist,Watching movies,False
+Kimberly,Garza,female,45,3/15/2021,20,895.53,Officer,Playing musical instruments,False
+Gerald,Rush,male,56,8/4/2020,20,973.65,Student,Playing musical instruments,True
+Jeffrey,Rogers,male,38,4/5/2020,2,752.59,Barber,Hiking,True
+Christine,Johnson,female,75,12/28/2019,1,95.37,Cashier,Gardening,False
+Maurice,Miller,male,52,12/7/2018,5,569.42,Waiter,Singing,False
+Michael,Rodriguez,male,40,4/10/2022,19,375.99,Housewife,Playing musical instruments,False
+Sherry,Collins,female,55,10/18/2019,17,440.46,Unemployed,Meditation,False
+Willie,Fernandez,male,35,5/17/2021,15,64.24,Receptionist,Painting,False
+Matthew,Kennedy,male,24,3/6/2023,0,435.72,Mechanic,Cycling,False
+Jennifer,Myers,female,35,4/17/2021,12,54.37,Polic,Running,False
+James,Kelly,male,31,8/10/2018,12,737.34,Waiter,Drawing,False
+Daniel,Paul,male,19,11/29/2019,10,142.86,Butcher,Camping,False
+Wesley,Moore,male,53,3/23/2019,19,408.45,Housewife,Drawing,False
+Francisco,Shaw,male,48,8/7/2020,4,471.87,Chef,Collecting,False
+James,Cobb,male,24,5/2/2022,11,809.03,Mechanic,Drawing,False
+Colin,Roach,male,68,6/15/2020,8,232.39,Baker,Camping,False
+Sarah,Cruz,female,76,4/15/2023,0,990.88,Accountant,Traveling,True
+Kelly,Martinez,female,74,4/15/2020,12,178.24,Farmer,Sewing,False
+Mary,Swanson,female,65,3/26/2019,4,300.72,Nurse,Photography,False
+Kimberly,Moreno,female,69,12/21/2019,8,328.06,Firefighter,Playing sports,True
+Andrew,Jenkins,male,33,6/9/2021,15,924.48,Receptionist,Hunting,False
+Amber,Ramirez,female,65,1/21/2020,10,964.41,Librarian,Photography,False
+Holly,Fowler,female,42,12/21/2022,16,150.4,Security Guard,Camping,False
+Jessica,Moore,female,44,3/22/2020,5,997.47,Officer,Watching movies,False
+Kimberly,Martin,female,71,12/20/2020,11,603.37,Janitor,Playing video games,False
+Shawn,Neal,male,65,11/23/2021,15,992.24,Pilot,Cooking,True
+Sarah,Garcia,female,70,3/22/2022,15,714.24,Officer,Baking,False
+James,Salazar,male,20,1/15/2021,20,257.39,Barber,Painting,True
+Kyle,Evans,male,37,9/7/2022,10,11.33,Tailor,Hunting,False
+John,Brown,male,35,1/13/2021,10,866.94,Lawyer,Sewing,False
+Stephanie,Stone,female,80,4/12/2021,14,187.47,Engineer,Swimming,False
+Veronica,Jones,female,74,1/25/2019,5,636.95,Architect,Baking,True
+Dale,Bauer,male,27,3/5/2023,4,520.19,Lawyer,Writing,False
+Brenda,Powell,female,35,3/11/2019,9,747.71,Carpenter,Singing,True
+Kelly,Sanchez,female,77,11/3/2019,2,763.83,Janitor,Baking,False
+Jacob,Williamson,male,73,6/2/2021,10,876.69,Engineer,Fishing,False
+Nicholas,Russell,male,29,8/9/2019,3,597.96,Baker,Other,True
+Paul,Alvarez,male,68,9/15/2019,11,766.24,Student,Painting,False
+Lauren,Perez,female,66,8/15/2021,16,677.74,Waiter,Other,False
+Rebecca,Garcia,female,51,4/15/2023,19,915.21,Scientist,Singing,False
+Stephanie,Richardson,female,76,11/28/2021,8,211.91,Baker,Singing,False
+Aaron,Bailey,male,54,9/5/2021,16,185.77,Accountant,Yoga,False
+Juan,Schwartz,male,73,12/22/2022,8,749.18,Waiter,Cooking,False
+Marc,Griffith,male,42,10/22/2019,19,6.18,Housewife,Running,False
+Lisa,Mclean,female,68,1/15/2023,14,141.74,Unkown,Meditation,False
+Rebecca,Gonzalez,female,59,6/10/2021,8,527.31,Butcher,Camping,False
+Michael,Tran,male,78,12/20/2020,0,663.59,Athlete,Other,False
+April,Cooper,female,28,1/29/2019,4,88.71,Scientist,Gardening,False
+John,Combs,male,34,12/14/2018,0,738.95,Officer,Writing,False
+Jonathan,Clark,male,46,7/22/2021,10,698.29,Waiter,Writing,False
+Justin,Harris,male,45,5/26/2019,14,834.16,Housewife,Drawing,False
+Rebecca,Rogers,female,30,8/10/2022,2,32.45,Firefighter,Writing,False
+Jamie,Hughes,female,47,1/4/2022,5,318.83,Carpenter,Sewing,False
+Melissa,Wilson,female,55,7/17/2023,8,400.23,Artist,Cycling,False
+Cynthia,Smith,female,21,9/17/2022,8,4.81,Butcher,Camping,True
+Robert,Prince,male,54,5/13/2021,20,24.43,Chef,Playing sports,False
+Daniel,Moore,male,64,1/1/2021,17,658.75,Polic,Cycling,False
+Lisa,Allen,female,20,12/6/2019,16,699.05,Security Guard,Collecting,False
+Julie,Hall,female,36,6/18/2022,7,814.26,Politician,Cooking,True
+Christopher,Perez,male,62,6/24/2021,16,680.1,Clerk,Sewing,False
+Steven,Castillo,male,67,12/31/2019,19,232.94,Waitress,Watching movies,False
+Michael,Wood,male,24,2/3/2020,19,289.93,Pilot,Collecting,False
+Amanda,Davis,female,32,3/1/2020,13,391.86,Politician,Reading,False
+Raymond,Miles,male,59,10/27/2018,5,0.49,Unemployed,Watching movies,True
+Eric,Bender,male,80,3/11/2022,15,433.64,Janitor,Collecting,False
+Daniel,Orozco,male,73,7/27/2021,19,341.76,Waitress,Swimming,False
+Jane,Pineda,female,28,3/22/2020,6,262.81,Artist,Cycling,False
+Benjamin,Payne,male,41,3/27/2020,11,784.4,Officer,Photography,False
+Jennifer,Mcfarland,female,23,2/7/2019,9,688.56,Hairdresser,Other,True
+Rebecca,Wilson,female,20,7/2/2023,2,160.13,Doctor,Playing musical instruments,True
+Elizabeth,Jennings,female,34,12/20/2019,20,644.1,Cashier,Running,True
+Leslie,Thomas,female,33,1/25/2020,0,725.78,Engineer,Running,False
+Mark,Jones,male,48,12/5/2022,1,918.09,Farmer,Swimming,True
+Emma,Flores,female,37,11/24/2022,10,694.69,Baker,Watching movies,False
+Alex,Ramsey,male,50,6/9/2022,2,922.04,Cashier,Playing musical instruments,False
+Christina,Crawford,female,26,8/30/2022,10,412.27,Doctor,Gardening,False
+Randy,Elliott,male,28,4/24/2020,10,900.93,Dentist,Hunting,True
+Joshua,Edwards,male,54,10/3/2022,0,244.51,Carpenter,Running,False
+Clarence,Hughes,male,27,1/27/2019,14,516.98,Lawyer,Running,False
+Patricia,Price,female,47,1/17/2021,10,246.66,Baker,Playing musical instruments,False
+Shelly,Cox,female,42,2/19/2019,15,21.96,Athlete,Gardening,True
+Amanda,Berg,female,50,3/12/2021,4,335.59,Unkown,Gardening,True
+Rebecca,Duncan,female,46,5/17/2022,18,480.51,Teacher,Cooking,False
+Olivia,Rush,female,31,8/30/2022,15,405.56,Barber,Dancing,False
+Carrie,Hanson,female,71,5/15/2019,8,938.19,Doctor,Yoga,True
+David,Evans,male,30,4/7/2020,13,433.82,Hairdresser,Baking,False
+Sabrina,Hayes,female,36,3/6/2022,1,689.95,Artist,Meditation,False
+Jeffery,Peterson,male,50,1/22/2021,12,511.03,Artist,Playing video games,False
+Sheryl,Keith,female,30,6/19/2021,9,369.57,Housewife,Cycling,False
+Andrew,Palmer,male,33,3/17/2019,17,78.5,Polic,Playing musical instruments,False
+Wendy,Scott,female,19,5/5/2019,0,259.33,Receptionist,Drawing,True
+Thomas,Juarez,male,27,9/5/2022,9,608.3,Architect,Meditation,True
+John,Lewis,male,57,12/17/2021,0,534.19,Hairdresser,Painting,False
+Kyle,Collins,male,39,4/4/2023,4,233.1,Engineer,Swimming,False
+Kevin,Sellers,male,55,2/12/2019,11,500.69,Lawyer,Yoga,True
+Courtney,Mueller,female,44,6/12/2023,7,436.41,Housewife,Yoga,True
+Sara,Strickland,female,56,10/9/2019,15,233.62,Polic,Writing,False
+Julie,Martinez,female,50,7/6/2023,3,706.94,Artist,Photography,False
+Sean,Williams,male,78,7/6/2019,6,211.74,Unemployed,Swimming,False
+Kayla,Gould,female,49,12/5/2022,16,658.94,Baker,Painting,False
+Taylor,Marshall,female,33,4/23/2023,20,151.46,Accountant,Gardening,False
+Amber,Wallace,female,38,10/12/2018,14,258.36,Clerk,Drawing,False
+Robert,Cook,male,69,9/3/2020,10,565.01,Pilot,Playing video games,False
+Crystal,Palmer,female,68,3/14/2020,17,613.37,Cashier,Other,True
+Anthony,King,male,70,8/16/2018,12,364.45,Doctor,Playing video games,True
+Michael,Browning,male,29,4/3/2021,19,656.13,Tailor,Playing sports,False
+Derrick,Berry,male,24,1/25/2022,7,125.27,Librarian,Cooking,True
+Kelly,Brown,female,49,5/21/2022,18,109.9,Polic,Yoga,False
+Alicia,Rosales,female,32,3/1/2020,17,176.07,Receptionist,Other,False
+Eric,Rogers,male,18,2/22/2020,7,352.67,Farmer,Gardening,True
+Mark,Chandler,male,33,11/3/2018,10,94.46,Firefighter,Other,False
+Jacob,Calderon,male,67,11/26/2020,14,160.85,Firefighter,Traveling,False
+Jonathan,Turner,male,31,4/7/2023,19,398.01,Teacher,Watching movies,False
+Vanessa,Little,female,21,3/3/2019,20,852.85,Barber,Playing sports,True
+Michael,Gonzales,male,75,12/12/2019,20,631.01,Cashier,Drawing,True
+Lori,Morrow,female,22,2/2/2021,16,439.88,Doctor,Cooking,True
+Taylor,Wagner,female,64,8/26/2022,8,841.53,Unkown,Collecting,False
+Tanya,Martinez,female,32,3/16/2019,19,21.63,Baker,Playing musical instruments,False
+Kimberly,Weaver,female,29,8/3/2018,20,232.15,Barber,Fishing,False
+Michael,Duncan,male,46,8/5/2022,20,774.29,Clerk,Swimming,False
+Suzanne,Thompson,female,76,7/25/2019,14,878.84,Student,Swimming,False
+Jessica,Ellis,female,70,10/16/2019,16,374.51,Waiter,Dancing,False
+Michael,Little,male,44,5/19/2023,18,681.94,Dentist,Running,False
+Anna,Wong,female,79,12/1/2019,20,351.81,Hairdresser,Traveling,True
+Angela,Howard,female,45,12/30/2019,4,773.59,Mechanic,Cycling,False
+Jack,Stephens,male,77,1/10/2020,14,282.86,Pilot,Meditation,True
+Dustin,Lin,male,23,1/4/2019,1,876.74,Artist,Drawing,False
+Kimberly,Wright,female,62,3/2/2023,11,641.67,Tailor,Collecting,False
+Jason,Smith,male,21,8/10/2019,8,442.53,Farmer,Cycling,True
+Cory,Lopez,male,65,12/15/2021,20,894.47,Chef,Baking,False
+Christina,Nelson,female,36,11/20/2019,18,647.07,Tailor,Swimming,True
+Nathaniel,Juarez,male,74,5/14/2020,1,147.86,Clerk,Baking,False
+Laura,Copeland,female,73,4/6/2021,8,174.95,Waiter,Hiking,True
+Jessica,Davis,female,24,1/11/2021,1,260.56,Butcher,Traveling,False
+Janice,Hughes,female,44,7/14/2020,5,320.17,Tailor,Singing,True
+Andrew,Jones,male,22,11/12/2018,11,526.5,Pilot,Drawing,True
+Andrea,Holder,female,38,10/14/2018,14,46.44,Dentist,Fishing,True
+Lee,Acosta,male,69,1/15/2020,1,336.16,Barber,Running,False
+Haley,Jones,female,56,5/1/2023,20,403.79,Farmer,Painting,False
+Danielle,Hunter,female,44,8/12/2022,9,886.09,Polic,Meditation,False
+Mark,Deleon,male,77,9/26/2020,19,211.73,Hairdresser,Fishing,False
+Jessica,Pham,female,50,2/3/2023,11,391.17,Lawyer,Hiking,True
+Marcia,Harris,female,77,8/9/2018,0,739.41,Architect,Gardening,False
+Peter,Johnston,male,30,8/30/2020,9,682.91,Nurse,Reading,False
+Heather,Hendrix,female,70,12/26/2018,1,590.61,Doctor,Other,False
+Betty,English,female,25,9/8/2022,2,951.85,Carpenter,Watching movies,False
+Eric,Ferguson,male,21,3/1/2021,13,482.89,Dentist,Traveling,False
+Anthony,Park,male,71,5/11/2019,5,721.76,Firefighter,Reading,False
+Jessica,Kim,female,62,10/11/2019,3,701.03,Barber,Running,True
+Todd,Garcia,male,61,3/12/2019,20,730.62,Cashier,Hunting,False
+Charlotte,Ward,female,67,10/4/2021,2,782.92,Unkown,Other,False
+Michael,Mclean,male,46,3/19/2020,2,614.11,Tailor,Painting,True
+Jesse,Carroll,male,77,7/15/2023,20,767.54,Unkown,Meditation,True
+Timothy,Brown,male,61,9/19/2021,12,661.38,Tailor,Cooking,False
+Anthony,Smith,male,31,12/13/2018,6,419.65,Doctor,Reading,False
+Denise,Rubio,female,55,2/14/2023,12,124.5,Tailor,Sewing,True
+Michelle,Miller,female,54,9/21/2022,5,263.28,Student,Swimming,True
+Michael,Fisher,male,44,6/17/2019,2,400.33,Teacher,Cycling,False
+Christina,Salas,female,44,6/27/2019,19,296.26,Nurse,Painting,False
+Kimberly,Vega,female,36,1/9/2021,6,571.9,Waiter,Playing musical instruments,False
+Michael,Olsen,male,69,3/12/2020,14,257.18,Doctor,Yoga,False
+Jason,Kennedy,male,34,8/23/2020,6,567.41,Teacher,Hunting,False
+Robert,Weiss,male,20,1/3/2022,6,338.21,Engineer,Drawing,False
+Seth,Owens,male,71,5/13/2020,10,908.26,Hairdresser,Hiking,False
+Jonathan,Barker,male,75,7/28/2022,0,301.94,Hairdresser,Playing sports,True
+Danielle,Riddle,female,67,9/11/2021,8,509.64,Accountant,Other,False
+Gregory,Hull,male,44,10/3/2018,1,352.53,Housewife,Meditation,True
+Kristen,Keith,female,74,3/20/2023,6,319.52,Politician,Hiking,False
+Victor,Villa,male,28,7/18/2020,12,914.47,Receptionist,Collecting,False
+Brian,Hill,male,20,11/27/2019,12,785.28,Mechanic,Singing,False
+Ashley,Dodson,female,51,10/26/2021,18,151.23,Baker,Cooking,False
+Andrew,Hays,male,77,12/14/2021,1,433.09,Security Guard,Drawing,True
+Nichole,Ochoa,female,19,6/25/2021,17,222.18,Unemployed,Writing,False
+James,Johnson,male,44,5/2/2022,14,121.32,Chef,Dancing,False
+Christian,Hernandez,male,62,10/23/2019,11,573.59,Farmer,Meditation,True
+Brandon,Banks,male,54,6/18/2021,2,353.73,Teacher,Playing musical instruments,False
+Keith,Proctor,male,23,10/6/2022,12,184.75,Architect,Singing,False
+Nicholas,Robinson,male,65,1/7/2023,20,913.02,Cashier,Writing,False
+Ashley,Morris,female,24,6/3/2020,4,474.9,Officer,Camping,True
+Carol,Walton,female,70,10/16/2021,20,950.33,Unemployed,Gardening,True
+Eugene,Burke,male,31,6/4/2019,4,88.9,Waitress,Writing,False
+Sheri,Fernandez,female,19,5/25/2022,6,657.09,Farmer,Playing musical instruments,False
+Matthew,Thomas,male,60,1/9/2023,4,623.46,Architect,Dancing,False
+Victor,Haynes,male,60,5/25/2023,3,150.86,Barber,Singing,False
+Tina,Medina,female,31,6/3/2022,4,445.15,Doctor,Playing video games,True
+Gabriel,Glenn,male,36,10/30/2018,15,10.29,Butcher,Painting,False
+Samantha,Small,female,47,11/3/2021,0,224.39,Pilot,Watching movies,False
+Renee,Smith,female,23,7/22/2023,0,896.52,Politician,Singing,True
+Brandon,Lindsey,male,57,1/31/2022,19,29.65,Dentist,Cooking,False
+Evan,Farrell,male,65,8/15/2022,5,857.32,Politician,Gardening,False
+Julie,Simon,female,70,9/23/2022,19,942.16,Baker,Reading,False
+Michael,Brown,male,50,11/3/2022,7,920.53,Lawyer,Playing sports,False
+David,Hardy,male,19,5/7/2021,13,148.72,Accountant,Gardening,True
+Jacob,Dixon,male,64,6/3/2023,15,41.95,Carpenter,Hunting,False
+Sheila,Johnson,female,54,8/25/2019,11,660.77,Firefighter,Watching movies,False
+Michael,Gilbert,male,39,8/18/2020,2,897.04,Baker,Swimming,False
+Stephen,Smith,male,64,4/3/2020,17,76.4,Butcher,Cooking,False
+Alvin,Andrade,male,46,10/22/2018,11,460.75,Mechanic,Singing,True
+Amanda,Lawson,female,18,10/8/2020,20,270.09,Pilot,Camping,True
+Mary,Harris,female,60,4/9/2022,12,60.97,Librarian,Reading,True
+Mary,Mccormick,female,43,8/31/2020,9,9.4,Nurse,Writing,True
+Rebecca,Murphy,female,63,5/21/2022,0,819.58,Student,Fishing,True
+Timothy,Patterson,male,38,11/15/2018,17,874.02,Waitress,Gardening,True
+Theresa,Mills,female,27,6/1/2022,13,938.92,Accountant,Dancing,False
+Erin,Hays,female,40,8/13/2020,0,667.35,Accountant,Traveling,False
+David,Wilson,male,30,6/6/2022,9,924.01,Firefighter,Cooking,True
+Elizabeth,Mcdonald,female,66,11/26/2018,18,948.48,Security Guard,Watching movies,True
+David,Cooper,male,30,9/14/2020,14,588.4,Doctor,Cycling,True
+Amanda,Romero,female,71,10/3/2019,9,813.22,Receptionist,Singing,True
+Lori,Walsh,female,66,5/25/2022,4,788.22,Mechanic,Gardening,False
+Maureen,Day,female,70,2/27/2022,14,644.54,Firefighter,Watching movies,False
+Christopher,Vincent,male,67,3/8/2019,18,30.37,Lawyer,Camping,False
+Christopher,Cooper,male,60,8/16/2022,5,591.75,Security Guard,Swimming,True
+Angela,Francis,female,26,9/19/2022,12,478.19,Hairdresser,Running,False
+Susan,Garcia,female,42,4/6/2021,15,796.4,Security Guard,Other,False
+Jeffrey,Neal,male,78,8/30/2020,14,904.42,Waitress,Running,False
+Rodney,Sutton,male,29,5/29/2022,15,159.15,Janitor,Playing musical instruments,False
+Ashley,Boyle,female,43,7/17/2022,17,277.52,Cashier,Fishing,False
+Victor,Jimenez,male,29,10/17/2021,1,356.33,Student,Writing,True
+Jonathan,Wright,male,48,6/5/2019,8,540.82,Mechanic,Cooking,False
+Kristina,Holland,female,42,8/8/2021,13,586.41,Dentist,Singing,False
+Barbara,Flowers,female,19,4/1/2022,4,345.97,Lawyer,Painting,False
+Brandon,Villarreal,male,54,10/16/2022,17,388.45,Barber,Cooking,False
+Nathan,Pena,male,46,11/19/2020,10,954.2,Butcher,Swimming,False
+Melissa,Parker,female,69,1/24/2023,6,252.06,Doctor,Playing video games,False
+Rebecca,Kline,female,22,12/31/2020,3,982.12,Receptionist,Reading,False
+Susan,Navarro,female,48,8/24/2021,12,264.68,Receptionist,Cycling,False
+Albert,Ruiz,male,28,6/2/2023,13,271.58,Architect,Photography,False
+Breanna,Marsh,female,28,9/5/2022,1,357.68,Receptionist,Singing,True
+Mary,Perkins,female,71,3/28/2023,4,797.9,Dentist,Meditation,False
+Amber,Rivera,female,42,8/23/2018,4,346.3,Pilot,Other,False
+Joseph,Petersen,male,77,8/1/2021,18,3.46,Officer,Yoga,False
+Richard,Williams,male,31,2/17/2020,6,366.26,Lawyer,Hiking,False
+Bradley,Mccann,male,22,3/29/2022,10,273.91,Unkown,Traveling,False
+Kristine,Reynolds,female,31,2/2/2023,9,36.06,Housewife,Camping,False
+Jessica,Cox,female,40,1/11/2019,3,837.34,Officer,Other,False
+John,Frazier,male,56,11/24/2022,4,984.99,Janitor,Playing musical instruments,True
+Jordan,Anderson,male,56,10/7/2018,5,166.4,Politician,Cooking,False
+Geoffrey,Rogers,male,35,2/7/2021,6,664.2,Dentist,Writing,False
+Jessica,Smith,female,31,7/18/2019,3,229.3,Unkown,Drawing,True
+Julie,Rogers,female,71,4/3/2020,5,439.82,Accountant,Reading,True
+Teresa,Gallagher,female,50,12/30/2018,13,400.53,Security Guard,Cooking,False
+Kenneth,Young,male,43,12/15/2019,10,784.84,Lawyer,Playing musical instruments,False
+Marissa,Hall,female,64,4/25/2021,1,634.37,Artist,Other,False
+Manuel,Fletcher,male,42,12/23/2021,10,808.25,Cashier,Running,True
+Brian,Wilkinson,male,29,10/4/2020,8,972.26,Unemployed,Baking,False
+Richard,Lopez,male,54,12/27/2018,16,224.02,Mechanic,Traveling,False
+Jacqueline,Smith,female,67,9/29/2022,15,960.17,Chef,Collecting,False
+Claire,Wilson,female,24,10/23/2020,10,881.1,Lawyer,Dancing,True
+Jacob,Walker,male,55,11/12/2018,16,652.14,Dentist,Other,False
+Paula,Stone,female,46,7/26/2021,6,316.38,Unkown,Gardening,True
+John,White,male,30,5/27/2022,1,407.58,Cashier,Painting,False
+Melissa,Miller,female,78,9/30/2022,4,788.15,Athlete,Photography,True
+Brandon,Rodriguez,male,58,12/3/2020,9,996.53,Student,Other,False
+Mark,Butler,male,55,7/4/2020,15,447.51,Teacher,Fishing,False
+Joshua,Greene,male,35,10/4/2020,11,858.56,Architect,Hunting,False
+Mikayla,Arnold,female,78,11/12/2019,17,365.26,Cashier,Singing,False
+Lauren,Salazar,female,53,1/18/2019,9,429.15,Janitor,Hunting,True
+Jennifer,Anderson,female,47,4/28/2021,12,661.88,Mechanic,Hiking,True
+Betty,Sullivan,female,80,7/14/2023,2,103.78,Barber,Running,False
+Brandon,Lee,male,54,4/6/2019,19,448.04,Librarian,Photography,False
+Megan,Little,female,50,11/14/2018,9,330.6,Chef,Sewing,False
+Anne,Dunn,female,19,10/11/2022,16,522.74,Architect,Other,False
+Lance,Gray,male,26,4/29/2020,10,727.24,Artist,Writing,False
+Alicia,Edwards,female,31,4/9/2021,3,650.15,Clerk,Reading,True
+Nichole,Clay,female,38,3/14/2020,17,30.94,Athlete,Cycling,False
+Trevor,Ball,male,42,2/2/2020,4,115.8,Unkown,Playing sports,False
+Amy,Bailey,female,22,1/14/2022,13,169.49,Lawyer,Cycling,False
+Richard,Arnold,male,75,7/26/2023,15,6.34,Unemployed,Collecting,False
+Regina,Wilson,female,74,5/7/2021,9,944.35,Clerk,Singing,False
+Dennis,Green,male,79,6/30/2020,17,489.54,Student,Baking,False
+Paul,Terry,male,57,12/27/2019,9,74.43,Tailor,Dancing,True
+Amy,Carter,female,74,2/18/2023,0,561.46,Mechanic,Meditation,False
+Annette,Lawrence,female,57,12/14/2019,16,274.4,Hairdresser,Swimming,False
+William,Contreras,male,38,10/20/2022,16,159.85,Doctor,Hunting,False
+Sandra,Rogers,female,40,9/5/2020,17,605.26,Teacher,Playing video games,False
+Danielle,Ware,female,38,7/29/2019,3,944.44,Polic,Cooking,False
+Tiffany,Sanchez,female,43,1/1/2020,2,527.13,Student,Reading,False
+Robert,David,male,76,5/8/2021,0,62.41,Lawyer,Baking,False
+Cynthia,Smith,female,35,5/18/2023,10,516.11,Nurse,Gardening,True
+Benjamin,Beck,male,21,3/29/2023,9,748.94,Farmer,Playing sports,True
+Debra,Avila,female,66,4/5/2019,14,888.2,Hairdresser,Gardening,True
+Molly,Carpenter,female,45,11/25/2018,19,535.47,Unemployed,Meditation,False
+Richard,Blackwell,male,54,9/30/2020,2,457.0,Polic,Fishing,True
+Casey,Grimes,female,24,8/7/2019,11,956.16,Housewife,Photography,True
+Yesenia,Calhoun,female,41,3/5/2022,20,608.08,Doctor,Drawing,True
+Jennifer,Morris,female,77,10/16/2020,5,890.18,Receptionist,Painting,True
+Lauren,Owen,female,69,2/27/2019,13,984.2,Engineer,Traveling,False
+Cheryl,Torres,female,25,10/19/2022,10,105.49,Mechanic,Singing,False
+Gregory,Gomez,male,75,7/22/2019,10,937.97,Unkown,Running,False
+Angela,Hughes,female,43,12/5/2019,19,25.23,Accountant,Playing video games,False
+Tracy,Evans,female,52,4/20/2019,1,606.1,Clerk,Sewing,False
+Melissa,Proctor,female,31,7/14/2023,14,372.98,Waitress,Playing video games,True
+Paul,Lee,male,80,9/6/2021,18,187.18,Nurse,Meditation,False
+Gerald,Morgan,male,55,3/29/2022,12,194.48,Chef,Painting,True
+Casey,Robbins,male,26,8/11/2019,12,798.43,Doctor,Gardening,False
+Scott,Frank,male,34,9/17/2022,13,109.39,Farmer,Playing sports,False
+Christopher,Anderson,male,27,7/27/2020,17,346.45,Farmer,Reading,False
+Kimberly,Burnett,female,55,12/14/2021,11,727.76,Janitor,Playing musical instruments,False
+Danny,Nixon,male,48,9/15/2018,7,985.05,Carpenter,Photography,False
+Tanya,Cooper,female,36,3/22/2019,18,73.95,Waitress,Playing video games,False
+Paula,Lee,female,24,5/15/2019,10,351.17,Dentist,Hunting,False
+Christopher,Hernandez,male,42,3/28/2020,18,327.31,Housewife,Playing musical instruments,False
+Alison,Banks,female,37,4/11/2022,11,190.76,Scientist,Hunting,False
+Richard,Smith,male,38,7/6/2020,15,382.81,Security Guard,Cycling,True
+Alison,Fox,female,62,9/22/2020,9,363.27,Lawyer,Meditation,True
+Kenneth,Blake,male,20,1/8/2020,18,263.79,Polic,Cooking,True
+Jose,White,male,24,2/22/2022,0,15.73,Polic,Drawing,False
+Bryan,Torres,male,36,9/6/2019,16,413.85,Firefighter,Other,False
+Sandra,Medina,female,55,10/14/2018,6,398.02,Receptionist,Playing musical instruments,False
+Heather,Price,female,36,12/27/2020,19,413.07,Tailor,Cycling,False
+Mark,Powell,male,19,6/24/2020,6,872.71,Librarian,Singing,False
+Ryan,Williamson,male,25,8/12/2020,16,429.54,Firefighter,Hiking,False
+Richard,Brown,male,32,4/28/2019,11,320.89,Accountant,Baking,False
+Andrew,Baldwin,male,52,9/5/2019,18,224.21,Librarian,Reading,False
+Richard,Taylor,male,27,4/14/2022,5,665.17,Tailor,Playing musical instruments,False
+Nathaniel,Arroyo,male,67,4/24/2020,12,624.31,Artist,Singing,False
+Debra,Hernandez,female,36,9/18/2021,11,648.64,Baker,Singing,False
+Justin,Coleman,male,63,1/9/2023,2,633.51,Architect,Running,False
+Toni,Wilson,female,58,8/29/2019,2,691.61,Pilot,Running,False
+Carlos,Evans,male,55,10/28/2021,10,743.35,Architect,Swimming,False
+Jason,Contreras,male,62,8/5/2019,14,657.47,Waiter,Running,False
+Troy,Wilson,male,32,6/25/2019,20,575.21,Student,Yoga,True
+Barbara,Smith,female,45,8/4/2019,13,776.73,Doctor,Singing,False
+Angela,Ramirez,female,55,5/24/2023,20,422.25,Barber,Reading,False
+Maria,Leonard,female,56,1/5/2023,12,433.63,Cashier,Camping,True
+Michael,Mcdonald,male,70,4/17/2020,9,654.36,Unemployed,Playing sports,False
+Robert,Porter,male,45,7/14/2020,18,198.5,Dentist,Other,True
+Alyssa,Walker,female,45,4/24/2021,19,916.75,Student,Playing sports,False
+John,Lee,male,22,12/9/2022,19,370.25,Janitor,Traveling,False
+Judy,Dillon,female,38,5/25/2021,8,945.91,Butcher,Drawing,True
+Denise,Davis,female,72,1/12/2022,16,159.09,Engineer,Painting,True
+Philip,Vargas,male,53,4/25/2019,14,508.87,Nurse,Dancing,True
+Emily,Sanders,female,38,1/18/2020,6,184.41,Accountant,Writing,True
+Brian,Joyce,male,44,7/3/2023,19,824.42,Clerk,Sewing,False
+Jonathan,Caldwell,male,55,4/26/2022,13,172.88,Pilot,Dancing,False
+Rachel,Flores,female,30,1/14/2020,18,539.4,Barber,Yoga,False
+Lucas,Lewis,male,77,9/25/2019,6,935.97,Janitor,Dancing,False
+Kenneth,Huff,male,79,6/18/2022,3,826.04,Waitress,Playing video games,False
+Samuel,Jackson,male,68,3/10/2021,10,400.31,Engineer,Hiking,False
+Jennifer,Obrien,female,69,4/20/2023,19,849.87,Accountant,Cooking,True
+Jacob,West,male,32,5/27/2019,3,93.89,Doctor,Writing,False
+Patrick,Campbell,male,29,9/4/2021,4,32.78,Accountant,Hunting,False
+Jacqueline,Cook,female,51,4/6/2019,8,685.81,Waiter,Yoga,False
+Tim,Jones,male,24,3/12/2023,16,496.73,Teacher,Playing musical instruments,False
+Emily,Davis,female,51,11/14/2020,13,568.22,Mechanic,Painting,False
+Colleen,Garza,female,50,6/9/2021,7,738.28,Athlete,Fishing,False
+David,Davis,male,27,4/24/2019,15,251.9,Waitress,Playing video games,False
+Michael,Larson,male,62,9/23/2021,3,940.05,Barber,Painting,False
+Nathan,Nelson,male,68,12/29/2021,15,201.26,Student,Drawing,False
+Robert,Silva,male,39,9/20/2020,7,650.69,Tailor,Hunting,False
+Regina,Morales,female,29,6/1/2020,19,975.2,Security Guard,Playing video games,False
+Jeffrey,Brown,male,75,8/14/2018,14,243.6,Hairdresser,Reading,False
+William,Wagner,male,30,6/27/2021,9,805.35,Athlete,Sewing,False
+Kevin,Thomas,male,53,2/3/2021,11,551.49,Unemployed,Hiking,False
+Dennis,Thompson,male,53,5/6/2021,18,198.69,Baker,Camping,False
+Raymond,Peck,male,68,8/6/2021,0,151.58,Tailor,Painting,False
+Douglas,Wright,male,20,1/29/2023,6,295.58,Waitress,Collecting,True
+Amber,Arnold,female,38,7/18/2020,2,906.6,Butcher,Traveling,False
+Alexander,Rodriguez,male,19,1/8/2023,9,905.79,Janitor,Hiking,False
+Heidi,Reeves,female,51,1/12/2021,7,460.65,Nurse,Baking,False
+Jasmine,Young,female,80,7/19/2022,0,233.44,Receptionist,Photography,False
+Stephen,Walker,male,40,1/31/2022,8,750.1,Receptionist,Painting,False
+Michael,Palmer,male,50,11/27/2021,16,211.42,Pilot,Camping,True
+Gerald,Green,male,71,7/2/2019,10,356.72,Nurse,Other,False
+Stephen,Hanson,male,20,4/25/2021,15,334.91,Waitress,Drawing,True
+Jacqueline,Garcia,female,54,6/4/2021,12,219.34,Tailor,Cooking,False
+Jamie,Flores,female,78,2/21/2019,11,730.6,Tailor,Playing sports,False
+Amy,Green,female,40,6/21/2022,20,529.07,Cashier,Fishing,True
+Mary,Johnson,female,24,9/4/2022,16,673.12,Pilot,Yoga,True
+Kenneth,Carter,male,27,6/24/2023,19,874.18,Engineer,Playing sports,False
+Michael,Oneill,male,66,4/16/2021,3,210.77,Accountant,Gardening,False
+Brian,Blackburn,male,78,10/19/2020,1,838.65,Chef,Baking,True
+Yvonne,Ford,female,54,9/6/2021,6,256.31,Tailor,Meditation,True
+Megan,Rivera,female,71,6/21/2019,14,212.98,Chef,Playing video games,True
+Tina,French,female,68,1/28/2023,11,929.07,Waitress,Reading,False
+Susan,Henson,female,40,3/21/2023,17,134.73,Waiter,Drawing,False
+Dave,Kelly,male,30,4/18/2020,14,657.25,Mechanic,Meditation,True
+Keith,Rios,male,71,5/29/2020,20,744.6,Scientist,Cycling,False
+Robin,Morgan,female,67,5/21/2020,11,426.18,Housewife,Baking,True
+Kevin,Smith,male,60,3/14/2023,14,107.18,Butcher,Camping,False
+Suzanne,Schmidt,female,43,4/5/2020,10,200.96,Student,Dancing,False
+Allison,Peterson,female,77,4/15/2023,18,683.57,Scientist,Swimming,False
+Cody,Salinas,male,18,2/17/2021,8,405.42,Engineer,Playing video games,False
+Dan,Smith,male,46,5/5/2023,17,255.87,Officer,Traveling,False
+Daniel,Davies,male,23,3/20/2019,2,114.85,Clerk,Yoga,False
+David,Oconnor,male,63,9/21/2019,13,241.12,Lawyer,Traveling,False
+Zachary,Gonzales,male,76,6/17/2023,18,309.76,Unemployed,Dancing,True
+Diana,Herring,female,35,4/14/2021,13,545.51,Hairdresser,Gardening,False
+Connor,Bauer,male,61,10/23/2019,0,48.02,Butcher,Hunting,False
+Destiny,Bennett,female,73,1/15/2019,14,137.91,Tailor,Playing musical instruments,False
+Sarah,Spencer,female,62,7/1/2021,20,438.97,Janitor,Yoga,True
+Jacqueline,Chambers,female,29,9/28/2021,3,729.44,Accountant,Singing,False
+Michael,Decker,male,80,12/18/2020,17,337.61,Janitor,Playing sports,False
+Emily,Howard,female,62,10/26/2022,17,519.93,Librarian,Cycling,False
+Douglas,Brown,male,77,12/11/2018,9,463.86,Unemployed,Singing,False
+Steve,Jackson,male,35,9/6/2021,1,661.06,Lawyer,Traveling,False
+Maria,Burnett,female,20,11/4/2020,8,774.2,Teacher,Dancing,True
+Sarah,Maldonado,female,18,5/14/2020,13,695.01,Artist,Writing,False
+Timothy,Wells,male,44,5/4/2023,0,495.14,Receptionist,Painting,False
+Roberto,Nichols,male,30,1/20/2019,8,365.49,Mechanic,Dancing,False
+Anthony,Gutierrez,male,35,5/19/2023,8,469.32,Architect,Cooking,False
+Elizabeth,Smith,female,52,7/28/2019,0,474.07,Firefighter,Fishing,False
+Ashley,Rogers,female,75,2/4/2019,20,184.55,Firefighter,Running,False
+Erik,Keller,male,34,4/18/2020,2,596.95,Hairdresser,Sewing,True
+James,Johnson,male,79,11/4/2019,7,981.14,Politician,Drawing,False
+Veronica,Perez,female,64,10/25/2020,9,431.26,Student,Photography,False
+Ryan,Garza,male,28,4/11/2020,16,813.08,Athlete,Playing sports,False
+Michelle,Edwards,female,33,10/13/2018,19,873.81,Unkown,Yoga,False
+Paul,Chavez,male,69,11/24/2019,13,295.83,Clerk,Gardening,True
+Zachary,Hill,male,68,11/16/2019,15,318.53,Dentist,Cycling,False
+Carol,Jordan,female,35,2/9/2021,20,774.65,Architect,Writing,False
+Catherine,Jordan,female,52,5/25/2022,15,68.12,Lawyer,Collecting,True
+Scott,Perez,male,56,5/9/2023,1,710.52,Janitor,Yoga,False
+Aaron,Carey,male,69,10/13/2022,11,342.29,Firefighter,Gardening,True
+Chris,Gordon,male,45,5/17/2020,5,746.51,Hairdresser,Collecting,False
+Abigail,Middleton,female,49,10/20/2019,1,499.59,Security Guard,Playing musical instruments,False
+Christina,Vazquez,female,23,1/14/2019,1,250.72,Dentist,Running,True
+Selena,Jones,female,36,5/9/2023,5,230.95,Barber,Playing video games,True
+Michelle,Collins,female,37,12/10/2021,16,595.28,Teacher,Other,True
+Dominique,Bell,female,20,6/14/2023,5,500.11,Security Guard,Camping,True
+Kelly,Holmes,male,61,2/22/2019,20,996.68,Politician,Other,False
+Jeffery,Stevenson,male,59,5/11/2022,0,508.28,Barber,Playing sports,False
+Katherine,Phillips,female,46,3/9/2021,20,970.42,Athlete,Sewing,False
+Olivia,Shaw,female,71,10/21/2019,13,17.01,Tailor,Meditation,False
+Pamela,Thompson,female,27,5/11/2019,0,841.19,Athlete,Singing,False
+Amy,Hebert,female,32,12/16/2020,16,278.75,Cashier,Camping,False
+Tara,Davis,female,52,5/23/2023,5,240.0,Lawyer,Camping,True
+William,Farmer,male,67,8/7/2020,16,115.48,Butcher,Cycling,False
+Ricky,Moore,male,44,4/19/2021,14,162.73,Janitor,Meditation,False
+Lorraine,Powell,female,64,11/6/2021,15,862.41,Architect,Drawing,False
+Luis,Green,male,39,10/30/2020,9,412.25,Nurse,Drawing,False
+Desiree,Holmes,female,57,4/30/2020,9,205.0,Baker,Singing,False
+Bradley,Williams,male,78,4/30/2021,18,479.04,Hairdresser,Painting,False
+Jordan,Ellis,female,46,10/26/2022,0,308.97,Mechanic,Traveling,False
+Tyler,Jones,male,44,11/19/2020,18,261.37,Mechanic,Writing,False
+Alex,Reyes,male,19,5/9/2020,0,965.15,Architect,Playing video games,True
+Joshua,Gay,male,21,8/5/2019,17,93.38,Chef,Watching movies,False
+Aaron,Bowers,male,66,8/10/2020,6,484.19,Hairdresser,Meditation,True
+Daniel,Ramirez,male,26,10/16/2019,12,570.45,Waiter,Drawing,False
+Joshua,Phillips,male,29,9/18/2018,4,699.9,Housewife,Writing,False
+Angelica,Chavez,female,61,3/18/2023,11,407.68,Janitor,Cycling,False
+Bryce,Gilbert,male,58,6/14/2022,4,880.64,Nurse,Photography,True
+Jacqueline,Pope,female,56,11/8/2021,17,433.13,Firefighter,Painting,False
+Bryan,Huang,male,71,10/18/2021,18,961.48,Doctor,Running,True
+Tracy,Lee,female,80,9/8/2022,3,887.36,Accountant,Yoga,True
+Barbara,Lucero,female,26,4/10/2019,15,408.39,Hairdresser,Playing musical instruments,True
+Joann,Snyder,female,32,9/9/2019,3,163.34,Accountant,Traveling,False
+Natalie,Evans,female,80,8/22/2021,20,361.85,Chef,Playing video games,False
+Alexander,Wilson,male,33,9/24/2019,0,457.18,Carpenter,Fishing,True
+Scott,Rollins,male,21,10/14/2021,3,149.94,Hairdresser,Fishing,False
+Peter,Fields,male,64,2/22/2019,6,206.01,Hairdresser,Collecting,False
+Melissa,Barrera,female,23,2/24/2020,20,345.47,Engineer,Fishing,False
+Michael,Vargas,male,79,7/12/2019,3,803.43,Cashier,Watching movies,False
+Kathy,Miller,female,27,9/17/2020,19,679.27,Janitor,Painting,True
+David,Dunn,male,44,6/15/2020,13,195.42,Scientist,Playing video games,False
+Susan,Norman,female,39,3/24/2021,1,212.28,Security Guard,Swimming,False
+Timothy,James,male,68,7/2/2023,14,165.39,Receptionist,Reading,False
+Marcus,Sullivan,male,78,4/26/2022,2,888.65,Dentist,Cooking,False
+Aaron,Silva,male,71,7/17/2022,5,584.9,Receptionist,Meditation,False
+Jessica,Fry,female,71,7/25/2023,11,426.46,Student,Watching movies,False
+Jennifer,Diaz,female,62,12/11/2021,9,916.43,Waitress,Yoga,False
+Colton,Davis,male,69,3/26/2021,20,495.05,Butcher,Collecting,False
+Misty,Young,female,23,7/7/2021,12,460.6,Pilot,Baking,False
+John,Cross,male,33,2/9/2021,20,923.68,Nurse,Other,True
+Eric,Rogers,male,70,5/27/2022,0,833.68,Nurse,Fishing,False
+Kayla,James,female,66,1/24/2022,2,476.42,Lawyer,Watching movies,False
+Alex,Scott,male,78,9/1/2022,8,718.11,Tailor,Reading,False
+Amy,Green,female,72,2/19/2020,11,677.77,Waitress,Camping,False
+Jessica,Warren,female,80,5/9/2019,19,717.14,Artist,Watching movies,True
+Thomas,Webb,male,68,11/15/2020,8,124.36,Firefighter,Watching movies,True
+Dale,Ramirez,male,35,12/20/2020,9,595.46,Butcher,Reading,True
+Linda,Andrews,female,33,2/2/2021,9,395.58,Accountant,Fishing,False
+Jonathan,White,male,39,7/6/2022,1,382.22,Carpenter,Playing musical instruments,True
+Kendra,King,female,67,1/9/2023,8,94.58,Accountant,Gardening,False
+Chad,Rhodes,male,31,5/28/2023,10,521.97,Carpenter,Other,False
+David,Hall,male,65,7/23/2019,1,804.02,Butcher,Writing,True
+Zoe,Sullivan,female,72,7/25/2023,17,251.69,Athlete,Watching movies,False
+Michele,Patel,female,37,3/18/2019,5,972.62,Security Guard,Watching movies,False
+Aaron,Taylor,male,45,8/10/2021,0,280.76,Barber,Reading,False
+Kristen,Griffith,female,31,9/21/2020,8,121.33,Receptionist,Photography,False
+Jonathon,Espinoza,male,65,8/8/2022,13,207.76,Mechanic,Camping,True
+Daniel,Thompson,male,71,11/27/2020,12,242.0,Barber,Camping,False
+Jonathan,Joseph,male,48,2/14/2023,11,642.99,Hairdresser,Sewing,False
+Michael,Robinson,male,60,4/26/2023,1,806.61,Accountant,Cycling,False
+Michael,Riley,male,27,2/17/2021,20,638.7,Butcher,Playing video games,True
+Elaine,Norris,female,67,6/28/2019,15,468.77,Barber,Cycling,False
+Sally,Velasquez,female,56,10/10/2019,13,910.66,Doctor,Fishing,False
+Paul,Gordon,male,38,6/23/2019,12,139.88,Firefighter,Singing,False
+Michael,Gomez,male,63,5/11/2022,14,315.24,Dentist,Dancing,False
+Angela,Holloway,female,74,8/24/2022,17,164.51,Athlete,Cycling,False
+Rachael,Phillips,female,28,11/23/2019,16,997.89,Barber,Baking,True
+Rebecca,Whitehead,female,18,7/21/2019,14,173.4,Tailor,Hunting,False
+Troy,Carr,male,56,12/11/2020,2,986.12,Dentist,Drawing,True
+Bonnie,Smith,female,38,2/5/2022,5,488.43,Cashier,Hiking,False
+Marcus,Hernandez,male,58,11/20/2021,8,314.99,Scientist,Photography,True
+Heather,Murphy,female,40,4/15/2020,14,75.77,Security Guard,Painting,True
+Charles,Mejia,male,48,11/26/2020,18,867.58,Engineer,Photography,False
+Tracy,Smith,female,55,5/28/2023,18,223.46,Clerk,Collecting,False
+Gregory,Evans,male,59,6/2/2020,8,911.05,Librarian,Running,False
+Philip,Dickerson,male,47,4/30/2021,12,608.23,Pilot,Playing sports,False
+Charles,Salas,male,54,11/30/2018,10,697.35,Waiter,Writing,False
+Erin,Harper,female,58,10/24/2022,9,169.78,Farmer,Playing musical instruments,True
+Victoria,Bray,female,57,9/4/2020,5,963.18,Officer,Painting,False
+Jose,Boyd,male,74,3/26/2023,5,242.87,Officer,Camping,True
+Joseph,Palmer,male,70,11/15/2020,7,106.98,Waitress,Photography,True
+Carolyn,Kelly,female,18,3/10/2021,11,381.91,Cashier,Swimming,False
+Mike,Chan,male,53,2/1/2020,1,589.18,Accountant,Photography,True
+John,Gordon,male,47,4/25/2023,12,404.99,Waiter,Singing,False
+Leslie,Taylor,female,70,8/31/2022,8,291.95,Waiter,Swimming,True
+Christopher,Cunningham,male,61,1/29/2021,12,122.14,Officer,Playing musical instruments,False
+Donald,Hansen,male,75,4/12/2021,15,811.72,Receptionist,Photography,False
+Taylor,Vasquez,female,57,1/27/2019,6,13.1,Student,Singing,False
+Anita,Terry,female,52,1/29/2023,10,463.38,Artist,Singing,True
+Elizabeth,Lynch,female,18,7/27/2022,6,987.33,Butcher,Writing,True
+Benjamin,Hunter,male,43,8/13/2022,20,398.72,Nurse,Other,True
+Alec,Brock,male,22,11/13/2018,6,953.98,Mechanic,Collecting,False
+Rachel,Randolph,female,23,3/28/2022,5,315.52,Chef,Fishing,False
+Steven,Martin,male,24,3/9/2023,3,653.85,Politician,Fishing,True
+Elizabeth,Moody,female,33,4/17/2020,13,86.01,Polic,Playing video games,False
+William,Bauer,male,42,6/3/2023,11,95.39,Librarian,Other,False
+Jon,Martin,male,18,10/9/2022,10,916.21,Security Guard,Drawing,True
+Ethan,Miller,male,70,6/27/2021,2,168.73,Teacher,Meditation,False
+Stephanie,Small,female,53,11/13/2019,2,305.32,Housewife,Gardening,False
+Victoria,Li,female,27,9/27/2020,17,659.06,Baker,Camping,False
+Leah,Ho,female,77,9/12/2018,19,502.71,Student,Playing sports,False
+Aaron,Bowen,male,66,6/5/2023,17,459.25,Tailor,Playing musical instruments,False
+William,Wiley,male,68,12/22/2020,18,423.08,Architect,Cooking,True
+Jason,Mora,male,43,10/11/2022,10,364.54,Lawyer,Hunting,False
+Melody,Lawrence,female,52,1/29/2021,4,117.72,Waiter,Baking,True
+Anthony,Jones,male,60,12/30/2018,19,139.82,Firefighter,Drawing,False
+Kari,Miller,female,27,9/7/2019,9,120.47,Teacher,Painting,False
+Heidi,Aguirre,female,31,9/8/2019,6,874.32,Waiter,Running,False
+Kenneth,Daniel,male,22,10/14/2022,5,214.35,Janitor,Cycling,False
+Katherine,Santos,female,22,5/17/2023,20,854.84,Doctor,Camping,False
+Douglas,Clayton,male,42,3/7/2023,5,837.25,Mechanic,Playing sports,False
+Doris,Hodges,female,50,11/15/2021,3,416.97,Unemployed,Playing sports,True
+Cathy,Wood,female,35,5/15/2020,2,439.98,Unkown,Photography,False
+Andrea,Morris,female,78,9/1/2018,4,986.45,Baker,Yoga,False
+David,Watson,male,53,5/5/2023,7,964.19,Lawyer,Collecting,True
+Samantha,Marks,female,32,2/14/2021,19,12.88,Butcher,Other,True
+Alexis,Knight,female,56,12/7/2019,12,797.93,Unkown,Cycling,False
+Robert,Peterson,male,18,11/17/2021,7,87.17,Chef,Dancing,False
+Felicia,Anderson,female,47,7/25/2022,0,520.22,Barber,Drawing,False
+Maxwell,Anderson,male,71,11/26/2018,13,961.26,Carpenter,Yoga,True
+Brandon,Ford,male,55,7/24/2023,8,449.85,Carpenter,Dancing,True
+Jacqueline,Hutchinson,female,52,11/16/2022,12,277.64,Nurse,Cooking,False
+Lori,Jones,female,71,5/1/2022,8,446.04,Artist,Swimming,True
+Emily,Hines,female,18,3/9/2022,8,538.4,Security Guard,Watching movies,False
+Nathaniel,Evans,male,40,2/23/2021,20,353.3,Teacher,Hiking,False
+Kevin,Hill,male,36,8/29/2021,12,694.84,Waitress,Camping,False
+Lydia,Waller,female,39,12/9/2019,20,999.15,Pilot,Playing sports,False
+Laura,Johnson,female,32,4/20/2019,13,786.52,Housewife,Meditation,False
+Roy,Johnson,male,42,9/25/2019,10,737.12,Athlete,Collecting,True
+Jenna,Valdez,female,65,5/5/2022,5,702.95,Pilot,Singing,False
+Courtney,Hickman,female,39,1/2/2022,0,447.77,Doctor,Gardening,True
+Kyle,Lee,male,44,10/23/2021,5,398.68,Architect,Cycling,False
+Lindsey,Mata,female,64,8/29/2020,6,322.29,Nurse,Playing musical instruments,False
+Jerry,Baker,male,47,10/25/2021,20,945.58,Athlete,Gardening,False
+Kelly,Alexander,female,31,6/7/2020,18,297.96,Engineer,Sewing,True
+Timothy,Kidd,male,27,10/11/2021,18,646.59,Pilot,Traveling,False
+Diana,Wong,female,49,1/10/2022,5,442.61,Dentist,Running,False
+Jordan,Simmons,female,41,9/16/2020,1,156.16,Cashier,Baking,False
+Paula,Andersen,female,74,12/20/2018,1,541.64,Athlete,Swimming,False
+Christopher,Morris,male,28,10/27/2019,8,175.94,Clerk,Cooking,False
+Christopher,Nielsen,male,78,11/6/2020,7,584.66,Farmer,Playing musical instruments,True
+Jeffrey,Martinez,male,74,4/15/2023,20,441.71,Waitress,Playing sports,True
+Joan,Garcia,female,58,7/27/2021,20,337.59,Unemployed,Fishing,True
+Angela,Crawford,female,52,3/11/2021,9,158.29,Politician,Hiking,False
+Jared,Coleman,male,75,12/30/2018,17,434.66,Accountant,Singing,False
+Brittany,Small,female,61,12/5/2022,3,850.28,Waiter,Baking,False
+Jerry,Davila,male,39,2/15/2021,20,349.26,Chef,Hunting,False
+Sean,Johnson,male,71,8/23/2020,15,563.53,Polic,Meditation,False
+Amber,Dickson,female,70,10/22/2022,19,801.43,Housewife,Cooking,False
+Elizabeth,Robinson,female,57,5/29/2021,5,300.42,Scientist,Playing video games,True
+Erin,Myers,female,26,11/3/2019,9,893.03,Chef,Playing sports,True
+Matthew,Ball,male,32,8/11/2022,20,856.21,Janitor,Camping,True
+Michelle,Palmer,female,27,12/2/2022,2,62.67,Chef,Playing video games,True
+Michael,Jackson,male,60,5/26/2020,6,782.61,Barber,Playing musical instruments,False
+Jennifer,Moore,female,54,11/11/2018,3,874.16,Waiter,Baking,False
+Susan,Henry,female,61,6/17/2019,19,795.28,Politician,Reading,False
+Steven,Sullivan,male,70,9/14/2018,13,339.1,Janitor,Hiking,False
+Jennifer,Moore,female,48,3/28/2019,5,699.7,Unemployed,Running,False
+Veronica,Elliott,female,29,12/4/2021,2,661.82,Accountant,Other,False
+Tiffany,Peterson,female,51,10/26/2019,2,433.37,Carpenter,Gardening,True
+Brian,Wyatt,male,75,12/13/2019,18,267.58,Baker,Drawing,True
+Maria,Cole,female,70,4/26/2023,5,805.9,Cashier,Playing musical instruments,False
+Michael,Scott,male,40,9/30/2019,8,517.87,Tailor,Gardening,False
+Jonathon,Martinez,male,32,2/1/2020,3,515.32,Athlete,Playing video games,False
+Rebekah,Stephens,female,55,6/11/2023,18,394.96,Doctor,Cooking,False
+Brenda,Huynh,female,43,5/25/2019,13,500.47,Politician,Fishing,True
+Jerry,Allen,male,29,2/28/2020,13,261.11,Janitor,Gardening,False
+Mary,Meyer,female,53,11/2/2020,15,200.88,Security Guard,Playing video games,False
+Suzanne,Reynolds,female,50,4/14/2020,15,830.72,Clerk,Yoga,False
+Casey,Evans,male,37,12/12/2020,13,841.7,Dentist,Traveling,False
+Zachary,Guerrero,male,60,9/19/2019,8,305.99,Farmer,Painting,False
+Jaclyn,Huber,female,62,9/7/2020,10,283.91,Scientist,Cooking,False
+Tara,Lewis,female,37,6/12/2021,1,287.63,Dentist,Writing,True
+David,Garcia,male,60,10/3/2022,7,468.71,Officer,Cycling,False
+Alexis,Carpenter,female,50,1/26/2021,1,638.35,Barber,Writing,False
+Mason,White,male,35,6/17/2021,2,465.46,Teacher,Camping,False
+Michael,Alvarez,male,20,5/21/2020,19,205.54,Nurse,Camping,False
+Raymond,Banks,male,54,7/10/2023,15,769.41,Barber,Traveling,False
+Melissa,King,female,63,1/9/2021,11,389.46,Mechanic,Painting,False
+Jimmy,Smith,male,72,7/26/2019,5,468.64,Waitress,Sewing,False
+Brianna,Ramirez,female,39,11/8/2020,2,857.77,Nurse,Reading,False
+Samantha,Drake,female,74,3/2/2023,13,574.7,Tailor,Watching movies,True
+Diane,Franklin,female,80,4/27/2020,16,33.39,Athlete,Dancing,True
+David,Taylor,male,34,8/18/2021,17,477.66,Politician,Hunting,False
+Lisa,Juarez,female,41,6/7/2019,18,912.22,Unkown,Swimming,False
+Amanda,Terry,female,27,6/16/2019,13,250.91,Tailor,Swimming,True
+Christopher,Hill,male,52,8/18/2022,1,234.73,Housewife,Watching movies,False
+Natasha,Hall,female,68,12/27/2020,13,777.53,Accountant,Fishing,False
+Steven,Padilla,male,78,9/11/2018,9,66.59,Janitor,Sewing,False
+Dennis,Thompson,male,60,11/25/2022,1,8.71,Housewife,Cycling,False
+Brett,Orozco,male,27,5/12/2020,5,674.35,Polic,Running,False
+Pedro,Wells,male,35,11/21/2018,16,450.32,Butcher,Singing,True
+Linda,Curry,female,47,11/1/2022,18,491.51,Engineer,Hiking,False
+Maria,Brennan,female,31,1/18/2022,4,7.26,Accountant,Dancing,False
+Ruth,Blankenship,female,58,4/15/2023,0,559.53,Barber,Gardening,False
+Dustin,Graves,male,24,2/19/2022,0,18.25,Librarian,Other,False
+Shannon,Smith,female,64,2/27/2022,6,363.93,Doctor,Hunting,False
+Paige,Brady,female,41,6/3/2021,12,153.88,Doctor,Cycling,False
+Jimmy,Carr,male,41,12/4/2018,10,647.44,Receptionist,Other,False
+Lee,Waters,male,31,10/22/2020,6,899.28,Waiter,Meditation,False
+Julie,Harris,female,59,1/29/2021,4,953.31,Tailor,Other,False
+Cheryl,Robinson,female,51,8/13/2018,17,706.74,Waitress,Writing,False
+Brianna,Cook,female,19,5/20/2022,18,479.81,Baker,Writing,False
+Michael,Williams,male,27,2/7/2022,11,664.78,Waitress,Dancing,False
+Rachel,Hunter,female,51,7/8/2021,14,380.78,Lawyer,Cooking,True
+Benjamin,Brady,male,19,9/18/2018,13,558.44,Janitor,Dancing,True
+Eric,Hammond,male,50,3/24/2023,8,710.31,Cashier,Gardening,False
+Denise,Carlson,female,21,9/28/2018,10,424.86,Lawyer,Fishing,True
+Kristen,Tucker,female,67,6/30/2019,9,395.44,Security Guard,Singing,False
+Gregory,Berry,male,47,6/3/2021,20,198.91,Student,Collecting,False
+Melissa,Foster,female,63,3/26/2021,14,133.82,Security Guard,Playing musical instruments,False
+Terry,Williams,male,78,3/25/2022,3,302.9,Clerk,Fishing,True
+Michael,Brown,male,46,6/25/2020,2,809.8,Engineer,Swimming,True
+Travis,Hamilton,male,40,6/6/2023,5,643.67,Security Guard,Collecting,False
+Tracy,Sanchez,female,31,3/13/2021,1,680.63,Student,Gardening,False
+Alexis,Williams,female,34,7/16/2019,4,351.18,Firefighter,Sewing,False
+Karen,Mendez,female,35,1/30/2020,2,45.27,Janitor,Baking,False
+Michaela,Smith,female,23,2/22/2019,9,381.57,Chef,Drawing,True
+Kathleen,Scott,female,72,5/23/2019,8,855.1,Clerk,Meditation,True
+Carl,Acosta,male,50,1/27/2020,20,456.16,Teacher,Hiking,False
